@@ -1,1 +1,1 @@
-Journeying into ALX SE
+Getting started ALX SE
